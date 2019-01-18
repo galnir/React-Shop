@@ -1,0 +1,11 @@
+backend/.vscode
+backend/node_modules
+backend/.env
+backend/prisma.yml
+backend/.graphqlconfig.yml
+backend/src/generated/prisma.graphql
+frontend/.vscode
+frontend/.next
+frontend/node_modules
+frontend/static/favicon.png
+frontend/static/radnikanext-medium-webfont.woff2
